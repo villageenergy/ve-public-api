@@ -1,0 +1,75 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+# Mac/OSX
+**/.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+*.sublime-project
+*.sublime-workspace
+UserInterfaceState.xcuserstate
+govedviui.cmd
+
+*.log
+log.txt
+npm-debug.log*
+
+/.idea
+/.ionic
+/.sass-cache
+/.sourcemaps
+/.versions
+/.vscode
+/coverage
+/dist
+# /node_modules
+/platforms
+/plugins
+/www
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# thunderclient https://github.com/rangav/thunder-client-support
+thunderEnvironment.db
+node_modules/
+vecfgenvlocs.js
+vecfgenvlocs.cjs
+
+# local env & config
+.env.local
+.env.*.local
+.env
+local.env
+
+/backup/
