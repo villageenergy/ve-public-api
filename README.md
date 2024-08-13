@@ -9,7 +9,7 @@ The draft API Documentation can be access at [https://docs.devices.village.energ
 
 Support for the veXAPI is limited, although our engineers will be monitoring the public discussion. 
 
-# Authorisation
+## Authorisation
 
 The ve-public-api supports two authorisation methods:
 
