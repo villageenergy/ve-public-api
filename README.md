@@ -1,5 +1,5 @@
 # ve-public-api
-VE Public API discussion
+[VE Public API discussion](https://github.com/villageenergy/ve-public-api/discussions)
 
 ## Trial API access for Customers
 
