@@ -5,7 +5,7 @@
 
 The ve-public-api allows Customers to access asset, telemetry and automations associated with their Voltello account. The trial will allow Village Energy to assess the value for Customers of having API access to these services and to explore what additional features and capabilities might be useful for Customers wanting to increase energy automations within their home or business.
 
-The draft API Documentation can be access at [https://docs.devices.village.energy/ve-x-api/index.html](url).
+The draft API Documentation can be access at [https://docs.devices.village.energy/ve-x-api/index.html](https://docs.devices.village.energy/ve-x-api/index.html).
 
 Support for the veXAPI is limited, although our engineers will be monitoring the public discussion. 
 
